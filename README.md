@@ -13,4 +13,4 @@ Movie Recommendation system (SVD, LDA, PCA, Tensor decomposition and PageRank), 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Bharathgc/Recommendation-Systems/blob/master/LICENSE) file for details
